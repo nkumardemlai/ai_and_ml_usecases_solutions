@@ -1,0 +1,59 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Howdy"],
+      "responses": ["Hello! How can I assist you?", "Hi there! What can I do for you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Goodbye", "Bye", "See you later", "Take care"],
+      "responses": ["Goodbye! Have a great day!", "Bye! Come back soon!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "Appreciate it", "Thanks a lot"],
+      "responses": ["You're welcome!", "Glad I could help!", "No problem!"]
+    },
+    {
+      "tag": "movie",
+      "patterns": ["Can you recommend a good movie?", "What's a popular movie right now?", "Any good movies playing?"],
+      "responses": ["Sure! Have you seen [Movie Name]?", "I recommend watching [Movie Name]. It's great!"]
+    },
+    {
+      "tag": "politics",
+      "patterns": ["What's happening in politics?", "Any important political news?", "Can you tell me about the latest political events?"],
+      "responses": ["There's been a lot of discussion about [Political Event].", "The latest political news revolves around [Political Topic]."]
+    },
+    {
+      "tag": "unknown",
+      "patterns": ["I don't understand", "Can you repeat that?", "What do you mean?"],
+      "responses": ["I'm sorry, I didn't understand that.", "Could you please rephrase your question?"]
+    },
+	{
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Howdy"],
+      "responses": ["Hello! How can I assist you?", "Hi there! What can I do for you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Goodbye", "Bye", "See you later", "Take care"],
+      "responses": ["Goodbye! Have a great day!", "Bye! Come back soon!"]
+    },
+    {
+      "tag": "movie",
+      "patterns": ["Can you recommend a good movie?", "What's a popular movie right now?", "Any good movies playing?"],
+      "responses": ["Sure! Have you seen [Movie Name]?", "I recommend watching [Movie Name]. It's great!"]
+    },
+    {
+      "tag": "politics",
+      "patterns": ["What's happening in politics?", "Any important political news?", "Can you tell me about the latest political events?"],
+      "responses": ["There's been a lot of discussion about [Political Event].", "The latest political news revolves around [Political Topic]."]
+    },
+    {
+      "tag": "unknown",
+      "patterns": ["I don't understand", "Can you repeat that?", "What do you mean?"],
+      "responses": ["I'm sorry, I didn't understand that.", "Could you please rephrase your question?"]
+    }
+  ]
+}
