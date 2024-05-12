@@ -1,4 +1,5 @@
-# The mainstream Usecases in the ML world are simplified here.
+# The mainstream Usecases in the ML world are simplified here. These are someof the fundamental examples, I have give required theory, the problemstatemet and solution !!
+
 **You will see...**
 
 **The RealTime Chatbot Agent Implementation**
