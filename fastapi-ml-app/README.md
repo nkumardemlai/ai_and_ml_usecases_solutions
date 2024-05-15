@@ -25,6 +25,11 @@ kubectl expose deployment fastapi-ml-app --type=LoadBalancer --port=8009
 minikube service fastapi-ml-app --url
 
 
+**After FASTAPI page been opened 127.0.0.1:portnumber **
+
+you open 127.0.0.1:portnumber/docs , to manually give input to predict the person has diabetes or not
+
+
 kubectl get pods
 
 kubectl cluster-info
