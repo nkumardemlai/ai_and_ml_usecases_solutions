@@ -1,4 +1,4 @@
-# The mainstream Usecases in the ML world are simplified here. These are someof the fundamental examples, I have give required theory, the problem statement and solution !!
+# The mainstream Usecases in the ML world are simplified here. These are someof the fundamental examples, I have given required theory to the problem statement and provided code as solution !!
 
 **You will see...**
 
